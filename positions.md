@@ -1,4 +1,4 @@
-# 🧩 Basic Soccer Positions
+# Basic Soccer Positions
 [← Back to Players](players.md)
 
 Soccer has several major positions:
