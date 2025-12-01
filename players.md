@@ -1,4 +1,4 @@
-# ⭐ Famous Soccer Players
+# Famous Soccer Players
 [← Back to Home](README.md) | [Go to Positions →](positions.md)
 
 Here are three well-known soccer players:
